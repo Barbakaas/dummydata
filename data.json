@@ -1,8 +1,7 @@
 {
-	"count": 1,
 	"items": [
 	  {
-		"searchResultId": "1",
+		"id": "1",
 		"archiveType": "string",
 		"summary": "string",
 		"relevance": 0,
