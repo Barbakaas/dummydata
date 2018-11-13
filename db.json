@@ -3,7 +3,7 @@
     {
       "id": 1,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "Lorem ipsum dolor sit amet,",
       "relevance": 0,
       "publicationType": "krant",
       "publicationName": "AD",
@@ -27,7 +27,7 @@
     {
       "id": 2,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "consectetuer adipiscing elit.",
       "relevance": 0,
       "publicationType": "vakblad",
       "publicationName": "prorail",
@@ -51,7 +51,7 @@
     {
       "id": 3,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "Aenean commodo ligula eget dolor",
       "relevance": 0,
       "publicationType": "magazine",
       "publicationName": "linda",
@@ -75,7 +75,7 @@
     {
       "id": 4,
       "archiveType": "string",
-      "summary": "string",
+      "summary": " Aenean massa.",
       "relevance": 0,
       "publicationType": "huis-aan-huis",
       "publicationName": "Ally vandaag",
@@ -99,7 +99,7 @@
     {
       "id": 5,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "Cum sociis natoque penatibus",
       "relevance": 0,
       "publicationType": "krant",
       "publicationName": "volkskrant",
@@ -123,7 +123,7 @@
     {
       "id": 6,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "et magnis dis parturient montes",
       "relevance": 0,
       "publicationType": "folder",
       "publicationName": "AH",
@@ -147,7 +147,7 @@
     {
       "id": 7,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "nascetur ridiculus mus.",
       "relevance": 0,
       "publicationType": "internet",
       "publicationName": "nu",
@@ -171,7 +171,7 @@
     {
       "id": 8,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "Donec quam felis,",
       "relevance": 0,
       "publicationType": "folder",
       "publicationName": "kruidvat",
@@ -195,7 +195,7 @@
     {
       "id": 9,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "ultricies nec, pellentesque",
       "relevance": 0,
       "publicationType": "vakblad",
       "publicationName": "ICTvandaag",
@@ -219,7 +219,7 @@
     {
       "id": 10,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "pretium quis, sem",
       "relevance": 0,
       "publicationType": "huis-aan-huis",
       "publicationName": "jeweet",
@@ -243,7 +243,7 @@
     {
       "id": 11,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "Nulla consequat massa quis",
       "relevance": 0,
       "publicationType": "internet",
       "publicationName": "pow",
@@ -267,7 +267,7 @@
     {
       "id": 12,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "Donec pede justo",
       "relevance": 0,
       "publicationType": "magazine",
       "publicationName": "playboy",
@@ -291,7 +291,7 @@
     {
       "id": 13,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "fringilla vel, aliquet",
       "relevance": 0,
       "publicationType": "krant",
       "publicationName": "Gooi- en Eemlander",
@@ -315,7 +315,7 @@
     {
       "id": 14,
       "archiveType": "string",
-      "summary": "string",
+      "summary": "vulputate eget",
       "relevance": 0,
       "publicationType": "vakblad",
       "publicationName": "Cell",
