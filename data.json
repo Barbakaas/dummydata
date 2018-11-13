@@ -1,1 +1,28 @@
-bla
+{
+	"items": [
+	  {
+		"searchResultId": "1",
+		"archiveType": "string",
+		"summary": "string",
+		"relevance": 0,
+		"publicationType": "krant",
+		"publicationName": "AD",
+		"publicationDate": "2018-11-13T10:06:34.546Z",
+		"publisher": "AD media",
+		"headline": "Test 1",
+		"imageUrl": "string",
+		"articles": [
+		  {
+			"searchArticleId": "string",
+			"publicationFrequency": "string",
+			"publicationCirculation": 0,
+			"publicationArea": "string",
+			"webReach": 0,
+			"surface": "string",
+			"mediavalue": 0,
+			"pdfUrl": "string"
+		  }
+		]
+	  }
+	]
+  }
