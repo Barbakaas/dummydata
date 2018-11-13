@@ -311,30 +311,6 @@
           "pdfUrl": "string"
         }
       ]
-    },
-    {
-      "id": 14,
-      "archiveType": "string",
-      "summary": "vulputate eget",
-      "relevance": 0,
-      "publicationType": "vakblad",
-      "publicationName": "Cell",
-      "publicationDate": "2018-11-13T10:06:34.546Z",
-      "publisher": "Elsevier",
-      "headline": "Test 14",
-      "imageUrl": "string",
-      "articles": [
-        {
-          "searchArticleId": "string",
-          "publicationFrequency": "string",
-          "publicationCirculation": 0,
-          "publicationArea": "string",
-          "webReach": 0,
-          "surface": "string",
-          "mediavalue": 0,
-          "pdfUrl": "string"
-        }
-      ]
     }
   ]
 }
