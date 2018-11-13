@@ -335,30 +335,6 @@
           "pdfUrl": "string"
         }
       ]
-    },
-    {
-      "id": 15,
-      "archiveType": "string",
-      "summary": "string",
-      "relevance": 0,
-      "publicationType": "folder",
-      "publicationName": "Hema",
-      "publicationDate": "2018-11-13T10:06:34.546Z",
-      "publisher": "Hemamedia",
-      "headline": "Test 15",
-      "imageUrl": "string",
-      "articles": [
-        {
-          "searchArticleId": "string",
-          "publicationFrequency": "string",
-          "publicationCirculation": 0,
-          "publicationArea": "string",
-          "webReach": 0,
-          "surface": "string",
-          "mediavalue": 0,
-          "pdfUrl": "string"
-        }
-      ]
     }
   ]
 }
