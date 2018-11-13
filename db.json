@@ -1,100 +1,364 @@
 {
-	"items": [
-	  {
-		"id": 1,
-		"archiveType": "string",
-		"summary": "string",
-		"relevance": 0,
-		"publicationType": "krant",
-		"publicationName": "AD",
-		"publicationDate": "2018-11-13T10:06:34.546Z",
-		"publisher": "AD media",
-		"headline": "Test 1",
-		"imageUrl": "string",
-		"articles": [
-		  {
-			"searchArticleId": "string",
-			"publicationFrequency": "string",
-			"publicationCirculation": 0,
-			"publicationArea": "string",
-			"webReach": 0,
-			"surface": "string",
-			"mediavalue": 0,
-			"pdfUrl": "string"
-		  }
-		]
-	  },
-	  {
-		"id": 2,
-		"archiveType": "string",
-		"summary": "string",
-		"relevance": 0,
-		"publicationType": "krant",
-		"publicationName": "AD",
-		"publicationDate": "2018-11-13T10:06:34.546Z",
-		"publisher": "AD media",
-		"headline": "Test 1",
-		"imageUrl": "string",
-		"articles": [
-		  {
-			"searchArticleId": "string",
-			"publicationFrequency": "string",
-			"publicationCirculation": 0,
-			"publicationArea": "string",
-			"webReach": 0,
-			"surface": "string",
-			"mediavalue": 0,
-			"pdfUrl": "string"
-		  }
-		]
-	  },
-	  {
-		"id": 3,
-		"archiveType": "string",
-		"summary": "string",
-		"relevance": 0,
-		"publicationType": "krant",
-		"publicationName": "AD",
-		"publicationDate": "2018-11-13T10:06:34.546Z",
-		"publisher": "AD media",
-		"headline": "Test 1",
-		"imageUrl": "string",
-		"articles": [
-		  {
-			"searchArticleId": "string",
-			"publicationFrequency": "string",
-			"publicationCirculation": 0,
-			"publicationArea": "string",
-			"webReach": 0,
-			"surface": "string",
-			"mediavalue": 0,
-			"pdfUrl": "string"
-		  }
-		]
-	  },
-	  {
-		"searchResultId": "1",
-		"archiveType": "string",
-		"summary": "string",
-		"relevance": 0,
-		"publicationType": "krant",
-		"publicationName": "AD",
-		"publicationDate": "2018-11-13T10:06:34.546Z",
-		"publisher": "AD media",
-		"headline": "Test 1",
-		"imageUrl": "string",
-		"articles": [
-		  {
-			"searchArticleId": "string",
-			"publicationFrequency": "string",
-			"publicationCirculation": 0,
-			"publicationArea": "string",
-			"webReach": 0,
-			"surface": "string",
-			"mediavalue": 0,
-			"pdfUrl": "string"
-		  }
-		]
-	  }
-	]
-  }
+  "items": [
+    {
+      "id": 1,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "archiveType": "string",
+      "summary": "string",
+      "relevance": 0,
+      "publicationType": "krant",
+      "publicationName": "AD",
+      "publicationDate": "2018-11-13T10:06:34.546Z",
+      "publisher": "AD media",
+      "headline": "Test 1",
+      "imageUrl": "string",
+      "articles": [
+        {
+          "searchArticleId": "string",
+          "publicationFrequency": "string",
+          "publicationCirculation": 0,
+          "publicationArea": "string",
+          "webReach": 0,
+          "surface": "string",
+          "mediavalue": 0,
+          "pdfUrl": "string"
+        }
+      ]
+    }
+  ]
+}
