@@ -36,7 +36,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "test media",
       "headline": "Test 2",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "http://testmypipe.com/wp-content/uploads/2016/02/plumbing-test.jpg",
       "articles": [
         {
           "searchArticleId": "string",
@@ -61,7 +61,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "talpa",
       "headline": "Test 3",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png",
       "articles": [
         {
           "searchArticleId": "string",
@@ -86,7 +86,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "allymedia",
       "headline": "Test 4",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "https://c1.staticflickr.com/9/8246/8560552146_6b50021122.jpg",
       "articles": [
         {
           "searchArticleId": "string",
@@ -111,7 +111,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "volksmedia",
       "headline": "Test 5",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "http://erickacwise.com/wp-content/uploads/2016/12/Beta-Test-NerdMelt-Showroom.jpg",
       "articles": [
         {
           "searchArticleId": "string",
@@ -136,7 +136,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "AH media",
       "headline": "Test 6",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "https://st.depositphotos.com/1032577/2523/i/950/depositphotos_25232427-stockafbeelding-spreekt-u-engels-test.jpg",
       "articles": [
         {
           "searchArticleId": "string",
@@ -186,7 +186,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "AD media",
       "headline": "Test 8",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "http://testmypipe.com/wp-content/uploads/2016/02/plumbing-test.jpg",
       "articles": [
         {
           "searchArticleId": "string",
@@ -211,7 +211,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "Sjoerd media",
       "headline": "Test 9",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "https://d3icht40s6fxmd.cloudfront.net/sites/default/files/test-product-test.png",
       "articles": [
         {
           "searchArticleId": "string",
@@ -236,7 +236,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "jeweet media",
       "headline": "Test 10",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "https://c1.staticflickr.com/9/8246/8560552146_6b50021122.jpg",
       "articles": [
         {
           "searchArticleId": "string",
@@ -261,7 +261,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "pownews",
       "headline": "Test 11",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "http://erickacwise.com/wp-content/uploads/2016/12/Beta-Test-NerdMelt-Showroom.jpg",
       "articles": [
         {
           "searchArticleId": "string",
@@ -286,7 +286,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "hefner media",
       "headline": "Test 12",
-      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
+      "imageUrl": "https://st.depositphotos.com/1032577/2523/i/950/depositphotos_25232427-stockafbeelding-spreekt-u-engels-test.jpg",
       "articles": [
         {
           "searchArticleId": "string",
