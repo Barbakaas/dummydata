@@ -11,7 +11,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "AD media",
       "headline": "Test 1",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -36,7 +36,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "test media",
       "headline": "Test 2",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -61,7 +61,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "talpa",
       "headline": "Test 3",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -86,7 +86,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "allymedia",
       "headline": "Test 4",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -111,7 +111,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "volksmedia",
       "headline": "Test 5",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -136,7 +136,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "AH media",
       "headline": "Test 6",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -161,7 +161,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "nu media",
       "headline": "Test 7",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -186,7 +186,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "AD media",
       "headline": "Test 8",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -211,7 +211,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "Sjoerd media",
       "headline": "Test 9",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -236,7 +236,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "jeweet media",
       "headline": "Test 10",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -261,7 +261,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "pownews",
       "headline": "Test 11",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -286,7 +286,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "hefner media",
       "headline": "Test 12",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
@@ -311,7 +311,7 @@
       "publicationDate": "2018-11-13T10:06:34.546Z",
       "publisher": "Gooische media",
       "headline": "Test 13",
-      "imageUrl": "string",
+      "imageUrl": "https://ic.tweakimg.net/ext/i/1112686349.gif",
       "articles": [
         {
           "searchArticleId": "string",
